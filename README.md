@@ -24,3 +24,12 @@ And control them via smartphone.
 * NPN Transistor
 * DC Motor
 * Ultrasound
+
+## Installation 
+* Connect the equipments
+* Connect arduino board to pc
+* Install Arduino IDE
+* Download this code and compile it
+* Disconnect the Rx and Tx connecting wires of bluetooth
+* Load this code
+* Testing by smart home application
